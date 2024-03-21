@@ -1,0 +1,22 @@
+
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: blueviolet;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+table{
+    display: flex;
+    border:1px solid black;
+    width: 100%;
+  }
+  th, td {
+    border:2px solid blue;
+    align-items: center;
+  }
